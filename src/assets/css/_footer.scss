@@ -1,0 +1,77 @@
+@import "variables";
+
+.site-footer {
+    width: 100%;
+
+    .site-footer-main {
+        background-color: $hover;
+        padding: 80px 16px;
+    }
+
+    .site-footer-logo {
+        width: 70px;
+        height: 70px;
+        margin-top: -24px;
+        border-radius: 12px;
+    }
+
+    .site-footer-details {
+        color: $text-hint;
+        font-size: 0.75rem;
+        margin-top: 8px;
+        font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+        font-weight: 400;
+        line-height: 1.66;
+        letter-spacing: 0.03333em;
+    }
+
+    .site-footer-link-title {
+        color: $text-primary;
+        display: flex;
+        font-size: 0.75rem;
+        align-items: center;
+        font-weight: bold;
+        line-height: 1.5;
+        margin-bottom: 0.75em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+
+    .site-footer-link {
+        color: $text-secondary;
+        cursor: pointer;
+        display: flex;
+        font-size: 1rem;
+        align-items: center;
+        line-height: 1.8;
+        margin-bottom: 0.375em;
+
+        &:hover {
+            color: $text-primary;
+        }
+    }
+
+    .site-footer-bottom {
+        background-color: $selected;
+        padding: 24px 16px;
+    }
+
+    .site-footer-divider {
+        height: 2px;
+        margin: -1px 0;
+    }
+
+    .site-footer-bottom-link {
+        color: rgba(0, 0, 0, 0.38);
+        font-size: 0.75rem;
+        font-weight: bold;
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+        justify-content: center;
+
+        &:hover {
+            color: $text-primary;
+        }
+    }
+}
+

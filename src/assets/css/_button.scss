@@ -1,0 +1,36 @@
+@use "sass:color";
+@import "variables";
+
+.social-btn {
+    color: rgba(0, 0, 0, 0.54);
+    cursor: pointer;
+    display: inline-flex;
+    padding: 12px;
+    position: relative;
+    font-size: 24px;
+    align-items: center;
+    border-color: rgba(0, 0, 0, 0.12);
+
+    &:after {
+        content: "";
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: block;
+        z-index: 0;
+        transform: scale(0);
+        position: absolute;
+        transition: 0.3s cubic-bezier(.47,1.64,.41,.8);
+        border-radius: 40px;
+        background-color: color.scale($primary, $alpha: -85%);
+    }
+
+    &:hover {
+        color: $primary;
+
+        &:after {
+            transform: scale(1)
+        }
+    }
+}

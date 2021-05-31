@@ -1,0 +1,136 @@
+{
+    "version": 1,
+    "kind": "row:shops",
+    "data": [
+        {
+            "organization_name": "BARBER",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "barber"
+        },
+        {
+            "organization_name": "Barbet bop",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "barber"
+        },
+        {
+            "organization_name": "Barber Expert",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "barber"
+        },
+        {
+            "organization_name": "Barbezen",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "barber"
+        },
+        {
+            "organization_name": "Barber Blaze",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "barber"
+        },
+        {
+            "organization_name": "Barberdo",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "barber"
+        },
+        {
+            "organization_name": "Barberable",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "barber"
+        },
+        {
+            "organization_name": "Cafes America",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "cafes"
+        },
+        {
+            "organization_name": "Look cafes",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "cafes"
+        },
+        {
+            "organization_name": "Simply cafe",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "cafes"
+        },
+        {
+            "organization_name": "Breakfast bar",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "cafes"
+        },
+        {
+            "organization_name": "House of chaii",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "cafes"
+        },
+        {
+            "organization_name": "Cafe 145",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "cafes"
+        }
+    ]
+}
