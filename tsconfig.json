@@ -1,13 +1,16 @@
 {
-  "compilerOptions": {
-    "module": "CommonJS",
-    "composite": true,
-    "target": "ES2018",
-    "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noImplicitReturns": true,
-    "declaration": true
-  },
-  "exclude": ["**/node_modules/**"]
+    "compilerOptions": {
+        "module": "CommonJS",
+        "composite": true,
+        "target": "ES2018",
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "declaration": true,
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    },
+    "exclude": ["**/node_modules/**"],
+    "include": ["src", "src/shop.json"]
 }
