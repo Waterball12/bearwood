@@ -28,7 +28,6 @@ const Shop = (props: RestShop) => {
                             <small class="color-text-secondary">${props.telephone}</small>
                         </li>
                     </ul>
-                    <a href="#" class="btn btn-primary text-white mt-2">Visit</a>
                 </div>
                 
             </div>
