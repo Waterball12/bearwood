@@ -13,6 +13,7 @@ export interface RestShop {
     telephone: string;
     email: string;
     category: ShopCategory;
+    img: Array<string>;
 }
 
 

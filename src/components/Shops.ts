@@ -1,5 +1,8 @@
 import Data from "../shop.json";
 import {RestShops} from "../types/Shop";
+import Fuse from "fuse.js";
+import NotFound from "./NotFound";
+import Shop from "./Shop";
 
 export interface ShopParams {
     order: "asc" | "desc";
@@ -11,19 +14,28 @@ const Shops = (props: ShopParams) => {
 
     let template = "";
 
-    shopData.data.forEach(x => {
-        template = template.concat(`
-            <div class="col-sm-12 col-md-6">
-                <div class="card">
-                    <div class="card-body">
-                        ${x.organization_name}
-                    </div>
-                </div>
-            </div>
-        `)
-    });
+    if (props.shopName != null) {
+
+        const searchResult = new Fuse(shopData.data, {
+            keys: ['organization_name', 'description', 'category']
+        }).search(props.shopName || '');
+
+        if (searchResult == null || searchResult.length <= 0) {
+            return NotFound(props.shopName);
+        }
+
+        searchResult.map(x => x.item).forEach(x => {
+            template = template.concat(Shop(x))
+        });
+    } else {
+        shopData.data.forEach(x => {
+            template = template.concat(Shop(x))
+        });
+    }
 
     return template;
 };
+
+
 
 export default Shops;

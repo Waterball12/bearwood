@@ -10,7 +10,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "barber"
+            "category": "barber",
+            "img": ["https://images.pexels.com/photos/1813272/pexels-photo-1813272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Barbet bop",
@@ -20,7 +21,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "barber"
+            "category": "barber",
+            "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Barber Expert",
@@ -30,7 +32,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "barber"
+            "category": "barber",
+            "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Barbezen",
@@ -40,7 +43,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "barber"
+            "category": "barber",
+            "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Barber Blaze",
@@ -50,7 +54,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "barber"
+            "category": "barber",
+            "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Barberdo",
@@ -60,7 +65,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "barber"
+            "category": "barber",
+            "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Barberable",
@@ -70,7 +76,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "barber"
+            "category": "barber",
+            "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Cafes America",
@@ -80,7 +87,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "cafes"
+            "category": "cafes",
+            "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Look cafes",
@@ -90,7 +98,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "cafes"
+            "category": "cafes",
+            "img": ["https://images.pexels.com/photos/7583447/pexels-photo-7583447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Simply cafe",
@@ -100,7 +109,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "cafes"
+            "category": "cafes",
+            "img": ["https://images.pexels.com/photos/6782268/pexels-photo-6782268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Breakfast bar",
@@ -110,7 +120,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "cafes"
+            "category": "cafes",
+            "img": ["https://images.pexels.com/photos/6782268/pexels-photo-6782268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "House of chaii",
@@ -120,7 +131,8 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "cafes"
+            "category": "cafes",
+            "img": ["https://images.pexels.com/photos/6782268/pexels-photo-6782268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
         {
             "organization_name": "Cafe 145",
@@ -130,7 +142,52 @@
             "postal_code": "B66 321",
             "telephone": "3103861623",
             "email": "bearwoodbusin@hotmail.com",
-            "category": "cafes"
+            "category": "cafes",
+            "img": ["https://images.pexels.com/photos/6782268/pexels-photo-6782268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
+        },
+        {
+            "organization_name": "Supermarket",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "supermarket",
+            "img": ["https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
+        },
+        {
+            "organization_name": "Supermarket",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "supermarket",
+            "img": ["https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
+        },
+        {
+            "organization_name": "Supermarket",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "supermarket",
+            "img": ["https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
+        },
+        {
+            "organization_name": "Supermarket",
+            "description": "",
+            "address": "2912 Bearwood Road",
+            "administrative_area": "Birmingham City",
+            "postal_code": "B66 321",
+            "telephone": "3103861623",
+            "email": "bearwoodbusin@hotmail.com",
+            "category": "supermarket",
+            "img": ["https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         }
     ]
 }
