@@ -37,20 +37,20 @@
                                 <img class="img-fluid" alt="..." src="../assets/images/undraw_Camping_y4an.svg" width="auto" height="auto">
                             </div>
                         </div>
-                        <div class="row pt-5">
+                        <form class="row pt-5" id="search-form">
                             <div class="col-md-10 col-9">
                                 <div class="input-group input-group-lg">
-                                    <input type="text" class="form-control rounded" placeholder="Search">
+                                    <input id="search-form-input" type="text" autocomplete="off" class="form-control rounded" placeholder="Search">
                                 </div>
                             </div>
                             <div class="col-md-2 col-3 text-start ps-0 flex-shrink-1">
-                                <button type="button" class="btn btn-primary text-white w-100 mb-0 h-100">Search</button>
+                                <button type="submit" class="btn btn-primary text-white w-100 mb-0 h-100">Search</button>
                             </div>
-                        </div>
+                        </form>
                         <div class="p-4 w-100">
-                            <span class="badge rounded-pill bg-primary">Barber shops</span>
-                            <span class="badge rounded-pill bg-primary">Cafes</span>
-                            <span class="badge rounded-pill bg-primary">SuperMarkets</span>
+                            <span class="badge rounded-pill bg-primary fw-light">Barber shops</span>
+                            <span class="badge rounded-pill bg-primary fw-light">Cafes</span>
+                            <span class="badge rounded-pill bg-primary fw-light">SuperMarkets</span>
                         </div>
                     </div>
                 </div>
@@ -63,5 +63,6 @@
             </div>
         </main>
         <script src="../index.js"></script>
+        <script src="../scripts/search.ts"></script>
     </body>
 </html>
