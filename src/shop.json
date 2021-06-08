@@ -9,8 +9,8 @@
             "administrative_area": "Birmingham City",
             "postal_code": "B66 4AP",
             "telephone": "0121 420 3094",
-            "email": "",
-            "website": "www.dixonsestateagents.co.uk",
+            "email": null,
+            "website": "https://www.dixonsestateagents.co.uk",
             "category": "Estate Agent",
             "img": ["https://images.pexels.com/photos/1813272/pexels-photo-1813272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
@@ -21,8 +21,8 @@
             "administrative_area": "Birmingham City",
             "postal_code": "B66 4AP",
             "telephone": "0121 420 3739",
-            "email": "",
-            "website": "www.neelamskebab.com",
+            "email": null,
+            "website": "https://www.neelamskebab.com",
             "category": "Take away",
             "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
@@ -33,8 +33,8 @@
             "administrative_area": "Birmingham City",
             "postal_code": "B66 4AP",
             "telephone": "0121 420 3611",
-            "email": "",
-            "website": "www.connells.co.uk",
+            "email": null,
+            "website": "https://www.connells.co.uk",
             "category": "Estate Agent",
             "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
@@ -45,7 +45,7 @@
             "administrative_area": "Birmingham City",
             "postal_code": "B66 4AP",
             "telephone": "0121 420 2021",
-            "email": "",
+            "email": null,
             "category": "Hair Dresser",
             "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
@@ -56,7 +56,7 @@
             "administrative_area": "Birmingham City",
             "postal_code": "B66 4AP",
             "telephone": "0121 413 8677",
-            "email": "",
+            "email": null,
             "category": "Grocery Store",
             "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
@@ -67,8 +67,8 @@
             "administrative_area": "Birmingham City",
             "postal_code": "B66 4AP",
             "telephone": "0121 238 4889",
-            "email": "",
-            "website": "www.stayfaded-2.ueniweb.com",
+            "email": null,
+            "website": "https://www.stayfaded-2.ueniweb.com",
             "category": "Hair Dresser",
             "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
@@ -79,7 +79,7 @@
             "administrative_area": "Birmingham City",
             "postal_code": "B66 4BL",
             "telephone": "0121 420 1290",
-            "email": "",
+            "email": null,
             "social_media": "@perfectmeclinic",
             "category": "Beauty Saloon",
             "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
@@ -91,7 +91,7 @@
             "administrative_area": "Birmingham City",
             "postal_code": "B66 321",
             "telephone": "0121 429 3711",
-            "email": "",
+            "email": null,
             "category": "Optician",
             "img": ["https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
@@ -102,8 +102,8 @@
             "administrative_area": "Birmingham City",
             "postal_code": "B66 4BL",
             "telephone": "0121 429 6222",
-            "email": "",
-            "website" : "www.leletakeaway.co.uk",
+            "email": null,
+            "website" : "https://www.leletakeaway.co.uk",
             "category": "Chinese Take away",
             "img": ["https://images.pexels.com/photos/7583447/pexels-photo-7583447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
         },
