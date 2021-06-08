@@ -11,9 +11,10 @@ export interface RestShop {
     administrative_area: string;
     postal_code: string;
     telephone: string;
-    email: string;
+    email: string | null;
     category: ShopCategory;
     img: Array<string>;
+    website?: string;
 }
 
 
