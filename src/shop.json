@@ -24,7 +24,7 @@
             "email": null,
             "website": "https://www.neelamskebab.com",
             "category": "Take away",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/neelams_kebab_house.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/neelams_kebab_house.jpg?raw=true"]
         },
         {
             "organization_name": "Connells Estate Agent",
@@ -36,7 +36,7 @@
             "email": null,
             "website": "https://www.connells.co.uk",
             "category": "Estate Agent",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/connells_estate.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/connells_estate.jpg?raw=true"]
         },
         {
             "organization_name": "Pagan Hairdresser",
@@ -47,7 +47,7 @@
             "telephone": "0121 420 2021",
             "email": null,
             "category": "Hair Dresser",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/pagan_hair_dresser.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/pagan_hair_dresser.jpg?raw=true"]
         },
         {
             "organization_name": "Supps4Less The Protein Shop",
@@ -70,7 +70,7 @@
             "email": null,
             "website": "https://www.stayfaded-2.ueniweb.com",
             "category": "Hair Dresser",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/stay_faded.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/stay_faded.jpg?raw=true"]
         },
         {
             "organization_name": "Perfecte'me Aesthetic Clinic",
@@ -82,7 +82,7 @@
             "email": null,
             "social_media": "@perfectmeclinic",
             "category": "Beauty Saloon",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/perfect_me.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/perfect_me.jpg?raw=true"]
         },
         {
             "organization_name": "Ocean Optical",
@@ -93,7 +93,7 @@
             "telephone": "0121 429 3711",
             "email": null,
             "category": "Optician",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/ocean_optical.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/ocean_optical.jpg?raw=true"]
         },
         {
             "organization_name": "LE LE",
@@ -105,7 +105,7 @@
             "email": null,
             "website" : "https://www.leletakeaway.co.uk",
             "category": "Chinese Take away",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/lele.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/lele.jpg?raw=true"]
         },
         {
             "organization_name": "Nails & Beauty 4 you",
@@ -129,7 +129,7 @@
             "email": null,
             "website": "www.thesailors.co.uk",
             "category": "Fish and chips shop",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/the_sailors.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/the_sailors.jpg?raw=true"]
         },
         {
             "organization_name": "Dylan’s Drink Shop",
@@ -141,7 +141,7 @@
             "email": null,
             "category": "Off License",
             "social_media": "@Dylan Drink Shop",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/dylans_drink_shop.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/dylans_drink_shop.jpg?raw=true"]
         },
         {
             "organization_name": "Bearwood Halal Meat & Mini market",
@@ -152,7 +152,7 @@
             "telephone": "0775 456 6311",
             "email": null,
             "category": "Butchers & Grocery",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/bearwood_hala.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/bearwood_hala.jpg?raw=true"]
         },
         {
             "organization_name": "Paul Estates ",
@@ -176,7 +176,7 @@
             "email": null,
             "website": "www.westbrom.co.uk",
             "category": "Bank",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/the_west_brom.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/the_west_brom.jpg?raw=true"]
         },
         {
             "organization_name": "Smiley’s Café",
@@ -188,7 +188,7 @@
             "email": null,
             "social_media": "https://www.facebook.com/Smileys-cafe-bearwood-107608280979821/",
             "category": "Café",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/smileys_cafe.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/smileys_cafe.jpg?raw=true"]
         },
         {
             "organization_name": "Luigi’s Pizza & Pasta",
@@ -200,7 +200,7 @@
             "email": "bearwoodbusin@hotmail.com",
             "website": "www.luigisbirmingham.com",
             "category": "Take Away",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/luigis_pizza.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/luigis_pizza.jpg?raw=true"]
         },
         {
             "organization_name": "The Phone Team",
@@ -212,7 +212,7 @@
             "email": null,
             "social_media": "https://www.facebook.com/thephoneteam",
             "category": "Repair Shop",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/phone_team.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/phone_team.jpg?raw=true"]
         },
                 {
             "organization_name": "Bearwood Pizza + Kebab",
@@ -224,7 +224,7 @@
             "email": null,
             "website": "www.bearwoodpizzab66.co.uk",
             "category": "Pizza Shop",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/bearwood_pizza.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/bearwood_pizza.jpg?raw=true"]
         }, 
         {
             "organization_name": "The Red Oven",
@@ -236,7 +236,7 @@
             "email": null,
             "website": null,
             "category": "Indian Restaurant",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/the_red_oven.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/the_red_oven.jpg?raw=true"]
         },
         {
             "organization_name": "Super Drug",
@@ -296,7 +296,7 @@
             "email": null,
             "website": null,
             "category": "Household and Diy goods",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/the_depot.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/the_depot.jpg?raw=true"]
         }, 
         {
             "organization_name": "Sweet Dreams",
@@ -308,7 +308,7 @@
             "email": null,
             "website": null,
             "category": "Desserts",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/sweet_dreams.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/sweet_dreams.jpg?raw=true"]
         }, 
         {
             "organization_name": "CEX",
@@ -320,7 +320,7 @@
             "email": null,
             "website": "www.webuy.com",
             "category": "Buy and Sell Retail",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/cex.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/cex.jpg?raw=true"]
         }, 
         {
             "organization_name": "Admiral",
@@ -344,7 +344,7 @@
             "email": null,
             "website": "www.levinesfurniture.co.uk",
             "category": "Furniture Retailer",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/levins.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/levins.jpg?raw=true"]
         },
         {
             "organization_name": "Therapy Health",
@@ -356,7 +356,7 @@
             "email": null,
             "website": null,
             "category": "Massage",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/therapy_health.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/therapy_health.jpg?raw=true"]
         }, 
         {
             "organization_name": "Reggae Kitchen",
@@ -392,7 +392,7 @@
             "email": null,
             "website": null,
             "category": "Charity Shop",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/age-uk.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/age-uk.jpg?raw=true"]
         }, 
         {
             "organization_name": "Serenity Café",
@@ -404,7 +404,7 @@
             "email": "Serenity.cafe@outlook.com ",
             "website": null,
             "category": "Café",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/serenity_cafe.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/serenity_cafe.jpg?raw=true"]
         }, 
         {
             "organization_name": "African And Caribean Shop",
@@ -416,7 +416,7 @@
             "email": null,
             "website": null,
             "category": "Supermarket",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/african_carribean_shop.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/african_carribean_shop.jpg?raw=true"]
         }, 
         {
             "organization_name": "Bearwood Cash and Carry",
@@ -428,7 +428,7 @@
             "email": null,
             "website": null,
             "category": "Household Good and Hardware",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/bearwood_cash_carry.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/bearwood_cash_carry.jpg?raw=true"]
         },
         {
             "organization_name": "Top Barber",
@@ -452,7 +452,7 @@
             "email": null,
             "website": null,
             "category": "Mini Market",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/midlands_mini_market.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/midlands_mini_market.jpg?raw=true"]
         }, 
         {
             "organization_name": "Karachi Kebab House",
@@ -513,7 +513,7 @@
             "email": null,
             "website": null,
             "category": "Hair Dresser",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/sues_unique_salon.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/sues_unique_salon.jpg?raw=true"]
         },   
         {
             "organization_name": "St Marys Hospice",
@@ -561,7 +561,7 @@
             "email": null,
             "website": null,
             "category": "Super Market",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/afro_carribean_foor_store.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/afro_carribean_foor_store.jpg?raw=true"]
         },   
         {
             "organization_name": "Heads Hair CO",
@@ -597,7 +597,7 @@
             "email": null,
             "website": null,
             "category": "Household goods",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/poundland.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/poundland.jpg?raw=true"]
         },   
         {
             "organization_name": "Aldi",
@@ -609,7 +609,7 @@
             "email": null,
             "website": "www.aldi.com",
             "category": "Super Market",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/aldi.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/aldi.jpg?raw=true"]
         },   
         {
             "organization_name": "Argos",
@@ -621,7 +621,7 @@
             "email": null,
             "website": "www.argos.com",
             "category": "Goods",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/argos.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/argos.jpg?raw=true"]
         },   
         {
             "organization_name": "Barnados",
@@ -645,7 +645,7 @@
             "email": null,
             "website": null,
             "category": "Charity Shop",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/mind.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/mind.jpg?raw=true"]
         },   
         {
             "organization_name": "Lloyds Pharmacy",
@@ -657,7 +657,7 @@
             "email": null,
             "website": "www.lloydspharmacy.co.uk",
             "category": "Pharmacy",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/lloyds_pharmacy.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/lloyds_pharmacy.jpg?raw=true"]
         },  
         {
             "organization_name": "Costa",
@@ -669,7 +669,7 @@
             "email": null,
             "website": null,
             "category": "Coffee Shop",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/costa.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/costa.jpg?raw=true"]
         },   
         {
             "organization_name": "Card Factory",
@@ -681,7 +681,7 @@
             "email": null,
             "website": null,
             "category": "Cards and Gifts",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/cards_factory.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/cards_factory.jpg?raw=true"]
         },   
         {
             "organization_name": "Scrivens Optician",
@@ -693,7 +693,7 @@
             "email": null,
             "website": "www.screvinsmoaring.com",
             "category": "Optician",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/scrivens_opticians.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/scrivens_opticians.jpg?raw=true"]
         },  
         {
             "organization_name": "Greggs",
@@ -705,7 +705,7 @@
             "email": null,
             "website": null,
             "category": "Takeaway",
-            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/greggs.jpg"]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/greggs.jpg?raw=true"]
         },   
         {
             "organization_name": "Allan Warwick Butchers",
