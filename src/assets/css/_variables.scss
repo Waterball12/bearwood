@@ -97,7 +97,7 @@ $focus: rgba(0, 0, 0, 0.12);
 $focusOpacity: 0.12;
 $activatedOpacity: 0.12;
 
-// TODO finish the elevation shadows
+// TODO finish the elevation shadows or dynamically create them
 $shadows: (
         0: none,
         1: #{0 0.46875rem 2.1875rem rgba(59, 62, 102, 0.03), 0 0.9375rem 1.40625rem rgba(59, 62, 102, 0.03), 0 0.25rem 0.53125rem rgba(59, 62, 102, 0.05), 0 0.125rem 0.1875rem rgba(59, 62, 102, 0.03)},
