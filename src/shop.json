@@ -58,7 +58,7 @@
             "telephone": "0121 413 8677",
             "email": null,
             "category": "Grocery Store",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },
         {
             "organization_name": "Stay Faded",
@@ -117,7 +117,7 @@
             "email": null,
             "website": "nails-beauty-4-you.business.site",
             "category": "Beauty Saloon",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },
         {
             "organization_name": "The Sailors",
@@ -164,7 +164,7 @@
             "email": null,
             "website": "www.paulestates.co.uk",
             "category": "Estate Agent",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },
         {
             "organization_name": "The West Brom",
@@ -248,7 +248,7 @@
             "email": null,
             "website": "www.superdrug.com",
             "category": "Health + Beauty Cosmetics",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         }, 
         {
             "organization_name": "Debra Charity Shop",
@@ -260,7 +260,7 @@
             "email": null,
             "website": "www.devra.org.uk",
             "category": "Charity Shop",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         }, 
         {
             "organization_name": "Dixi Chicken",
@@ -272,7 +272,7 @@
             "email": null,
             "website": null,
             "category": "Take Away",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         }, 
         {
             "organization_name": "Specsavers",
@@ -284,7 +284,7 @@
             "email": null,
             "website": null,
             "category": "Optician",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         }, 
         {
             "organization_name": "The Depot",
@@ -332,7 +332,7 @@
             "email": null,
             "website": null,
             "category": "Casino and Slots",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         }, 
         {
             "organization_name": "Levines",
@@ -368,7 +368,7 @@
             "email": null,
             "website": null,
             "category": "Jamaican Take Away",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         }, 
         {
             "organization_name": "E2M",
@@ -380,7 +380,7 @@
             "email": null,
             "website": "www.e2mintershipping@gmail.com",
             "category": "International Cargo Shipping",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         }, 
         {
             "organization_name": "AGE.UK",
@@ -476,7 +476,7 @@
             "email": null,
             "website": null,
             "category": "Public House",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },
         {
             "organization_name": "Peter BainBridge",
@@ -488,7 +488,7 @@
             "email": null,
             "website": null,
             "category": "Optometrists",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },
              
         {
@@ -501,7 +501,7 @@
             "email": null,
             "website": null,
             "category": "Jewellery and Gifts",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },     
         {
             "organization_name": "Sue’s Unique Salon",
@@ -525,7 +525,7 @@
             "email": null,
             "website": null,
             "category": "Charity Shop",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },   
         {
             "organization_name": "Café Craft",
@@ -537,7 +537,7 @@
             "email": null,
             "website": "www.cafecraft.co.uk",
             "category": "Café",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },    
         {
             "organization_name": "CO.OP",
@@ -549,7 +549,7 @@
             "email": null,
             "website": null,
             "category": "Super Market",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },  
         {
             "organization_name": "Afro Carribean Food Store",
@@ -573,7 +573,7 @@
             "email": null,
             "website": "www.headshaircompany.co.uk",
             "category": "Hair Dresser",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },  
         {
             "organization_name": "Vintage INK",
@@ -585,7 +585,7 @@
             "email": null,
             "website": "www.vintageinktattoos.co.uk",
             "category": "Tattoo Artist",
-            "img": [""]
+            "img": ["https://github.com/Waterball12/bearwood/blob/main/src/assets/images/no_image.png?raw=true"]
         },   
         {
             "organization_name": "Poundland",
