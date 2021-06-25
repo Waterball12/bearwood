@@ -1,8 +1,6 @@
 import Shops from "../components/Shops";
 
 
-
-
 const app = async () => {
 
 

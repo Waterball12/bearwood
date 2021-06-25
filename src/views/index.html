@@ -2,10 +2,10 @@
 <html lang="en">
     <head>
         <include src="src/template/head.html"></include>
-        <link rel="stylesheet" href="../assets/css/views/home-styles.scss" />
+        <link rel="stylesheet" href="../assets/css/views/shops-styles.scss" />
     </head>
     <body>
-        <main class="page-container">
+        <main class="h-100 d-flex flex-column">
             <!-- Navigation -->
             <include src="src/template/navigation.html"></include>
             <!--end of Navigation bar-->
@@ -39,22 +39,13 @@
                                 <img class="img-fluid" alt="..." src="../assets/images/undraw_Camping_y4an.svg" width="auto" height="auto">
                             </div>
                         </div>
-                        <form class="row pt-5" id="search-form">
-                            <div class="col-md-10 col-9">
-                                <div class="input-group input-group-lg">
-                                    <input id="search-form-input" type="text" autocomplete="off" class="form-control rounded" placeholder="Search">
-                                </div>
-                            </div>
-                            <div class="col-md-2 col-3 text-start ps-0 flex-shrink-1">
-                                <button type="submit" class="btn btn-primary text-white w-100 mb-0 h-100">Search</button>
-                            </div>
-                        </form>
-                        <div class="p-4 w-100">
-                            <span class="badge rounded-pill bg-primary fw-light">Barber shops</span>
-                            <span class="badge rounded-pill bg-primary fw-light">Cafes</span>
-                            <span class="badge rounded-pill bg-primary fw-light">SuperMarkets</span>
-                        </div>
                     </div>
+                    <div class="col-md-2 col-3 text-start ps-0 flex-shrink-1">
+                        <button type="submit" class="btn btn-primary text-white w-100 mb-0 h-100">Search</button>
+                    </div>
+                </form>
+                <div class="row g-4 pt-4 pb-4" id="shops">
+
                 </div>
             </div>
 
@@ -65,6 +56,7 @@
             </div>
         </main>
         <script src="../index.js"></script>
+        <script src="../scripts/shops.ts"></script>
         <script src="../scripts/search.ts"></script>
     </body>
 </html>
