@@ -37,7 +37,7 @@ const Shop = (props: RestShop) => {
                         ${website}
                         <li class="list-group-item justify-content-start align-content-center">
                             <i class="fas fa-phone fa-1x me-4 color-text-secondary"></i>
-                            <small class="color-text-secondary">${props.telephone}</small>
+                            <small class="color-text-secondary">${props.telephone ?? "Not available"}</small>
                         </li>
                     </ul>
                 </div>
